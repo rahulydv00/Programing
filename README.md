@@ -1,2 +1,2 @@
-# Programing
+# Java basics
 Programing in java
